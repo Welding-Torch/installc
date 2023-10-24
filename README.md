@@ -33,6 +33,11 @@ Contributions are what make the open source community such an amazing place to l
 
 We accept contributions in the following categories: Code, Documentation, Financial, Design, 'Ideas, Planning, and Feedback', Research, and Translation.
 
+## Acknowledgements
+
+Install C uses [WinLibs](https://winlibs.com/) as it's source for executables. Currently this build of WinLibs: winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-16.0.6-mingw-w64ucrt-11.0.0-r1.
+Install C uses [MinGW-w64](https://www.mingw-w64.org/).
+
 ## Contact
 Siddharth Bhatia. Email me at siddharth@installc.org.
 
