@@ -36,6 +36,7 @@ We accept contributions in the following categories: Code, Documentation, Financ
 ## Acknowledgements
 
 Install C uses [WinLibs](https://winlibs.com/) as it's source for executables. Currently this build of WinLibs: winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-16.0.6-mingw-w64ucrt-11.0.0-r1.
+
 Install C uses [MinGW-w64](https://www.mingw-w64.org/).
 
 ## Contact
