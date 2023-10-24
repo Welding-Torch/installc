@@ -5,3 +5,34 @@
 ![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/welding-torch/installc?style=for-the-badge&color=blue)
 ![GitHub contributors](https://img.shields.io/github/contributors/welding-torch/installc?style=for-the-badge&color=blue)
 ![GitHub Discussions](https://img.shields.io/github/discussions/welding-torch/installc?style=for-the-badge)
+
+# Install C
+Fast and Simple One-Click Installer for the entire C development toolchain.
+
+[Website](https://installc.org) | [Features](#features) | [Download](#download) | [How To Contribution](#how-to-contribute)
+
+## Screenshot
+![Canva Whatsapp Compatible](https://github.com/Welding-Torch/Install-C-readme/assets/46340124/68711e5d-946f-4507-8af6-5fe9e80f6298)
+
+## Features
+Features include:
+* One-Click Installer
+* Latest Version of GCC (13.2.0) 2023
+* Compatibility with VS Code
+* Automatic addition to Path
+* Compatibility with Code Runner
+* Works for C++
+
+## Download
+Get Install C for Windows 64-bit only [here](https://github.com/Welding-Torch/installc/releases/latest/download/installc.exe).
+
+## How to Contribute
+The source code is in the file: [Cinstaller1.iss](https://github.com/Welding-Torch/installc/blob/main/Cinstaller1.iss).  
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. Learn how to do it by reading the [Contributing Guide](CONTRIBUTING.md).
+
+We accept contributions in the following categories: Code, Documentation, Financial, Design, 'Ideas, Planning, and Feedback', Research, and Translation.
+
+## Contact
+Siddharth Bhatia. Email me at siddharth@installc.org.
+
