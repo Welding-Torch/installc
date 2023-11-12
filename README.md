@@ -12,7 +12,7 @@ Fast and Simple One-Click Installer for the entire C development toolchain.
 [Website](https://installc.org) | [Features](#features) | [Download](#download) | [How To Contribute](#how-to-contribute)
 
 ## Screenshot
-![Canva Whatsapp Compatible](https://github.com/Welding-Torch/Install-C-readme/assets/46340124/68711e5d-946f-4507-8af6-5fe9e80f6298)
+![Canva Whatsapp Compatible](https://github.com/Welding-Torch/installc/assets/46340124/fa497877-f859-4bce-a010-4e29c452286d)
 
 ## Features
 Features include:
