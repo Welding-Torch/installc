@@ -19,9 +19,9 @@ Features include:
 * One-Click Installer
 * Latest Version of GCC (13.2.0) 2023
 * Compatibility with VS Code
-* Automatic addition to Path
+* Automatically adds `gcc` to Path
 * Compatibility with Code Runner
-* Works for C++
+* Supports C++ too
 
 ## Download
 Get Install C for Windows 64-bit only [here](https://github.com/Welding-Torch/installc/releases/latest/download/installc.exe).
