@@ -24,14 +24,14 @@ Features include:
 * Supports C++ too
 
 ## Download
-Get Install C for Windows 64-bit only [here](https://github.com/Welding-Torch/installc/releases/latest/download/installc.exe).
+Get Install C for Windows 64-bit only **[here](https://github.com/Welding-Torch/installc/releases/latest/download/installc.exe)**.
 
 ## How to Contribute
 The source code is in the file: [Cinstaller1.iss](https://github.com/Welding-Torch/installc/blob/main/Cinstaller1.iss).  
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. Learn how to do it by reading the [Contributing Guide](CONTRIBUTING.md).
 
-We accept contributions in the following categories: Code, Documentation, Financial, Design, 'Ideas, Planning, and Feedback', Research, and Translation.
+We accept contributions in the following categories: Code, Documentation, Financial, Design, 'Ideas, Planning, & Feedback', Research, and Translation.
 
 ## Acknowledgements
 
