@@ -5,6 +5,8 @@
 ![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/welding-torch/installc?style=for-the-badge&color=blue)
 ![GitHub contributors](https://img.shields.io/github/contributors/welding-torch/installc?style=for-the-badge&color=blue)
 ![GitHub Discussions](https://img.shields.io/github/discussions/welding-torch/installc?style=for-the-badge)
+<a href="https://github.com/Welding-Torch/installc/releases/latest" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/windows-image?style=for-the-badge&logo=windows&labelColor=grey&color=blue"></a>
+<!-- ![Download Windows](https://img.shields.io/badge/windows-image?style=for-the-badge&logo=windows&labelColor=grey&color=blue) -->
 
 # Install C
 Fast and Simple One-Click Installer for the entire C development toolchain.
