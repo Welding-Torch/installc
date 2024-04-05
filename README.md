@@ -28,6 +28,9 @@ Features include:
 ## Download
 Get Install C for Windows 64-bit only **[here](https://github.com/Welding-Torch/installc/releases/latest/download/installc.exe)**.
 
+## Usage
+Follow along with the [tutorial](https://installc.org/learn/).
+
 ## How to Contribute
 The source code is in the file: [Cinstaller1.iss](https://github.com/Welding-Torch/installc/blob/main/Cinstaller1.iss).  
 
