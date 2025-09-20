@@ -48,7 +48,7 @@ Install C uses [MinGW-w64](https://www.mingw-w64.org/).
 
 If you like Install C, you can donate to it. I accept donations in Indian Rupees via UPI. Scan the QR Code to donate.
 
-
+![Donate](https://raw.githubusercontent.com/Welding-Torch/installc/refs/heads/main/GooglePay_QR%20(1).png)
 
 ## Contact
 Siddharth Bhatia.
