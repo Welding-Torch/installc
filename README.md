@@ -44,6 +44,12 @@ Install C uses [WinLibs](https://winlibs.com/) as it's source for executables. C
 
 Install C uses [MinGW-w64](https://www.mingw-w64.org/).
 
+## Donate
+
+If you like Install C, you can donate to it. I accept donations in Indian Rupees via UPI. Scan the QR Code to donate.
+
+
+
 ## Contact
 Siddharth Bhatia.
 
